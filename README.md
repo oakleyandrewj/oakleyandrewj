@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @oakleyandrewj
+- 👀 I’m interested in Microsoft Stack (Full Stack) Dev, APIs, learning new things, cricket, how we learn, and storing some personal projects here while I work on them
+- 🌱 I’m currently learning all about Systems Thinking, by doing an MSc at the Open University. Specifically interested in Systems Dynamics
+- 💞️ I’m looking to collaborate on community projects in for the Legal Sector
+- 📫 How to reach me ... find me on Linkedin and lets connect :-) 
